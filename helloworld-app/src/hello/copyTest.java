@@ -16,5 +16,6 @@ public class copyTest {
         os.close();
         is.close();
         System.out.println("复制成功");
+        System.out.println();
     }
 }

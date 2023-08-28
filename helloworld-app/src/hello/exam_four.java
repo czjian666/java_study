@@ -28,7 +28,6 @@ public class exam_four {
 
             arr2[i] = arr[i];
         }
-
         return arr2;
     }
 }
